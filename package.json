@@ -1,0 +1,19 @@
+{
+  "name": "rpg-vm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmesDev/RPG-Electron-VampireMascarade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmesDev/RPG-Electron-VampireMascarade/issues"
+  },
+  "homepage": "https://github.com/EmesDev/RPG-Electron-VampireMascarade#readme"
+}
