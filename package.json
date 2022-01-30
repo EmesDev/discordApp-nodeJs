@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EmesDev/RPG-Electron-VampireMascarade/issues"
   },
-  "homepage": "https://github.com/EmesDev/RPG-Electron-VampireMascarade#readme"
+  "homepage": "https://github.com/EmesDev/RPG-Electron-VampireMascarade#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
 }
